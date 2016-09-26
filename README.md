@@ -5,7 +5,7 @@
   / / / /_/ / / / / / // // / / / / /_
  /_/ / .___/_/ /_/ /_/___/_/ /_/_/\__/
     /_/
-                    UAC Suicide Squad
+               UAC Suicide Squad v1.1
        Windows 10 Anniversary Edition
                       By Cn33liz 2016
 ```
